@@ -1,0 +1,12 @@
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\bin\Debug\VinlandSaga.Domain.dll
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\bin\Debug\VinlandSaga.Domain.pdb
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.csproj.AssemblyReference.cache
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.dll
+C:\Users\hifriend\Desktop\repository\1054\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.pdb
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\bin\Debug\VinlandSaga.Domain.dll
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\bin\Debug\VinlandSaga.Domain.pdb
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.csproj.AssemblyReference.cache
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.csproj.CoreCompileInputs.cache
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.dll
+C:\Users\batya123\Downloads\VinlandSaga\VinlandSaga\VinlandSaga.Domain\obj\Debug\VinlandSaga.Domain.pdb
